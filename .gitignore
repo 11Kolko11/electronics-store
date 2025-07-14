@@ -5,10 +5,6 @@ yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 
-# lock-файли (якщо хочете трекати тільки один, видаліть відповідний рядок)
-package-lock.json
-yarn.lock
-
 # === Environment Files ===
 # всі .env файли ігноруємо
 .env
